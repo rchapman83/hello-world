@@ -15,6 +15,7 @@ branches:
   except:
     - legacy
     - experimental
+    - wip
 
 # whitelist
   only:
