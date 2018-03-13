@@ -4,3 +4,4 @@ Werkzeug
 wsgiref
 setproctitle
 futures
+psycopg2
