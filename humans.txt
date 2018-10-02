@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible:
+
+# TEAM
+
+    Rowan Chapman -- Leader -- @rchapman83
+
+# THANKS
+
+    Rowan Chapman - @rchapman83,
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, Python

@@ -1,0 +1,9 @@
+# robotstxt.org/
+
+User-agent: *
+Disallow: /ssh/
+Disallow: /.ssh/
+Disallow: /.svn/
+Disallow: /.git/
+Disallow: /cgi-bin/
+Disallow: /tmp/
