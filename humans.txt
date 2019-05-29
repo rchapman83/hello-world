@@ -1,4 +1,4 @@
-# humanstxt.org/
+# humanstxt.org
 # The humans responsible:
 
 # TEAM
@@ -13,3 +13,9 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, Python
+    
+# SITE
+
+	Last update:2012/02/04
+	Language: Català / Czech / Deutsch / English / Castellano / Japanese / Dutch / Russian / Chinese
+	IDE: Sublime Text, Notepad++, FileZilla, Photoshop
