@@ -1,4 +1,6 @@
 Jinja2
+nose
+sphinx
 Werkzeug
 setproctitle
 futures
