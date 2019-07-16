@@ -1,0 +1,30 @@
+/*
+**
+** Custom Style
+**
+*/
+
+
+body    {
+            font-family: serif, sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+}
+
+header {
+            background-color: #cccccc;
+            background-image: url("/static/img/");
+            background-repeat: no-repeat;
+            background-position: left top;
+            color: #000000;
+}
+
+section {
+            background-color: #aaaaaa;
+            color: #000000;
+}
+
+footer {
+            background-color: #aaaaaa;
+            color: #000000;
+}
